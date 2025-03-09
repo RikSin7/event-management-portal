@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # README
 
@@ -116,3 +117,6 @@ This project is open-source under the MIT License.
 ```
 
 > > > > > > > 6f170de (initial commit)
+=======
+# event-management-portal
+>>>>>>> 8f5aeb699365a8940beebc03af52a5ecd0f0776f
